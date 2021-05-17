@@ -1,4 +1,4 @@
-library(ojo)
+library(ojodb)
 
 connect_ojo()
 
